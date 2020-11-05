@@ -81,5 +81,5 @@ const test = "13.2px";
 console.log(parseInt(test));
 
 // Method .parseFloat
-const test = "13.2px";
-console.log(parseFloat(test));
+const testy = "13.2px";
+console.log(parseFloat(testy));
